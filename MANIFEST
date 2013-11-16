@@ -8,5 +8,6 @@ lib/Getopt/TypeConstraint/Mouse.pm
 minil.toml
 t/00_compile.t
 t/basic.t
+t/documentation.t
 META.yml
 MANIFEST

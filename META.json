@@ -50,6 +50,7 @@
       },
       "test" : {
          "requires" : {
+            "Project::Libs" : "0",
             "Test::More" : "0.98"
          }
       }
@@ -57,7 +58,7 @@
    "provides" : {
       "Getopt::TypeConstraint::Mouse" : {
          "file" : "lib/Getopt/TypeConstraint/Mouse.pm",
-         "version" : "0.04"
+         "version" : "0.05"
       }
    },
    "release_status" : "stable",
@@ -71,5 +72,5 @@
          "web" : "https://github.com/Cside/Getopt-Constraint-Mouse"
       }
    },
-   "version" : "0.04"
+   "version" : "0.05"
 }
